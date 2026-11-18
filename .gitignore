@@ -1,9 +1,9 @@
 #repository foto mapen 
 
-./CardGrader/captures
-./CardGrader/debug
-./CardGrader/reports
-./CardGrader/samples
+CardGrader/captures
+CardGrader/debug
+CardGrader/reports
+CardGrader/samples
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
